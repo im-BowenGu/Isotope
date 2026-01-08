@@ -24,7 +24,7 @@ Isotope splits the system into three distinct functional layers to ensure that a
 1. **Partitioning:** Prepare two identical root partitions (Slot A/B) and one Data partition.
 2. **Bootstrap:** Install a base Arch system on Slot A, then run the build script:
 ```bash
-curl -sSL https://raw.githubusercontent.com/your-repo/isotope/main/bootstrap.sh | bash
+curl -sSL https://raw.githubusercontent.com/im-bowen-gu/isotope/main/bootstrap.sh | bash
 
 ```
 
