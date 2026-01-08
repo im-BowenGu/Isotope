@@ -1,6 +1,6 @@
 # Isotope
 
-**Isotope** is an opinionated, atomic Arch Linux configuration designed for 100% Wayland stability. Inspired by the logic of Omarchy, it treats the system core as a swappable, immutable ROM while managing user applications via Nix.
+**Isotope** is an opinionated, atomic Arch Linux configuration designed for 100% Wayland stability. Inspired by the logic of VanillaOS, it treats the system core as a swappable, immutable ROM while managing user applications via Nix.
 
 ## 🏗️ The Architecture
 
